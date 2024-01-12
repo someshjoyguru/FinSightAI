@@ -1,0 +1,16 @@
+Gross Profit: $975633.38
+Net Profit: $288361.63
+Total Closed Trades: 142
+Win Rate: 38.73%
+Max Drawdown: 81.34%
+Gross Loss: $581655.01
+Average Winning Trade (in USDT): $17738.79
+Average Losing Trade (in USDT): $6685.69
+Buy and Hold Return: 172.89%
+Largest Losing Trade (in USDT): $44500.50
+Largest Winning Trade (in USDT): $71096.85
+Sharpe Ratio: 0.1575
+Sortino Ratio: 2.4616
+Average Holding Duration per Trade: 2 days 21 hours 17 minutes 44 seconds
+Max Dip Percentage in a Trade: -14.39%
+Average Dip Percentage in Trades: -3.71%
